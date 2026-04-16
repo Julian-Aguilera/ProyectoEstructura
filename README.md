@@ -20,7 +20,7 @@ Este es un proyecto Java básico creado con Maven.
 - Maven
 
   /*
-INSTRUCCIONES DEL CONTROLLER
+## INSTRUCCIONES DEL CONTROLLER
 
 Este controlador permite interactuar con el sistema
 AutoRescate 24/7 desde consola.
